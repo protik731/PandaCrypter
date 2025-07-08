@@ -32,13 +32,6 @@ PandaCrypter is a C#-based tool designed to convert PowerShell scripts into obfu
 # Tested with Red-Team Tools 
 - [x] [Hoaxshell](https://github.com/t3l3machus/hoaxshell)
 
-# Usage
-PandaCrypter is a command-line tool that requires an input PowerShell script and outputs a batch file. Below is the syntax and available options.
-
-```batch
-PandaCrypter -i <input.ps1> -o <output.bat> [options]
-```
-
 # Options
 ```
 -amsi: Enables AMSI bypass in the generated batch file.
