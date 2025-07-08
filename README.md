@@ -88,7 +88,6 @@ Contributions are welcome! Please submit pull requests or open issues for bug re
 
 # License
 This project is licensed under the MIT License. See the file for details.
-
 # Credits
 [ch2sh](https://github.com/ch2sh/Crybat)
 
