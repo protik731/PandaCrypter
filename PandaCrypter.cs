@@ -1,4 +1,5 @@
-﻿using System;
+// https://github.com/Chainski/PandaCrypter
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
