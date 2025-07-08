@@ -70,18 +70,14 @@ Open the solution in Visual Studio or another C# IDE.
 Build the project to generate the executable (PandaCrypter.exe).
 Run the tool from the command line with the desired options.
 
-# Example Output
-For an input PowerShell script hello.ps1 containing:
-
+# Usage Example 
 ```powershell
-Write-Host "Hello, World!"
+"Hello, World!" > hello.ps1
 ```
 
 ```batch
-PandaCrypter -i hello.ps1 -o hello.bat -amsi
+PandaCrypter -i hello.ps1 -o hello.bat 
 ```
-
-Produces `hello.bat`, which, when executed, runs the original script while bypassing `AMSI`. 
 
 # Contributing
 Contributions are welcome! Please submit pull requests or open issues for bug reports, feature requests, or improvements.
