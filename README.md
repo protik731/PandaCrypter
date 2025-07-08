@@ -90,5 +90,3 @@ This project is licensed under the MIT License. See the file for details.
 PandaCrypter is provided "as is" for educational and research purposes. The developers are not responsible for any misuse or damage caused by this tool. 
 Always use it in compliance with applicable laws and regulations.
 
-
-
