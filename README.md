@@ -19,7 +19,7 @@ PandaCrypter is a C#-based tool designed to convert PowerShell scripts into obfu
 - [x] PowerShell to Batch Conversion: Converts PowerShell scripts `(.ps1)` into batch files `(.bat)`.
 - [x] AES Encryption: Encrypts the PowerShell payload.
 - [x] Anti-VM: Optionally evades virtualized environments.
-- [x] GZip Compression: Compresses the payload to reduce size before encryption.
+- [x] Compression: Compresses the payload to reduce size before encryption.
 - [x] Obfuscation: Obfuscates the generated batch file and powershel execution chain. 
 - [x] AMSI Bypass: Optionally includes an `AMSI` (Antimalware Scan Interface) bypass to avoid detection.
 - [x] Run as Administrator: Supports elevating privileges by prompting for admin rights using `Abuse Elevation Control Mechanism` [Force Admin](https://github.com/Chainski/ForceAdmin).
