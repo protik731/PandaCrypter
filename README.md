@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Chainski/PandaCrypter/blob/main/assets/PandaCrypter.png?raw=true", width="400", height="250">
+<img src="https://github.com/Chainski/PandaCrypter/blob/main/assets/PandaCrypter.png?raw=true", width="400", height="200">
 </p>
 
 <p align= "center">
