@@ -2,6 +2,16 @@
 <img src="https://github.com/Chainski/PandaCrypter/blob/main/assets/PandaCrypter.png?raw=true", width="400", height="250">
 </p>
 
+<p align= "center">
+   <img src="https://img.shields.io/github/stars/Chainski/PandaCrypter?style=flat&color=%23fd5c50">
+   <img src="https://img.shields.io/github/forks/Chainski/PandaCrypter?style=flat&color=%23fd5c50">
+   <img src="https://hits.sh/github.com/Chainski/PandaCrypter.svg?color=fd5c50">
+   <br>
+   <img src="https://img.shields.io/github/last-commit/Chainski/PandaCrypter?style=flat&color=%23fd5c50">
+   <img src="https://img.shields.io/github/license/Chainski/PandaCrypter?color=%23fd5c50">
+   <br>
+</p>
+
 # PandaCrypter
 PandaCrypter is a C#-based tool designed to convert PowerShell scripts into obfuscated batch files (.bat) with encryption and additional features for execution control. 
 
